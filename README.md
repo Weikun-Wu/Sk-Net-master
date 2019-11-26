@@ -1,6 +1,6 @@
 ### SK-Net: *Deep Learning on Point Cloud via End-to-end Discovery of Spatial Keypoints*
 
-[![prediction example](https://github.com/charlesq34/pointnet2/blob/master/doc/teaser.jpg)]
+[![prediction example](https://github.com/Weikun-Wu/Sk-Net-master/blob/master/doc/Backbone.png)]
 
 ### Citation
 If you find our work useful in your research, please consider citing: To be determined
