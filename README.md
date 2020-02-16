@@ -43,6 +43,7 @@ To train a model to segment object parts for ShapeNet models:
 
 
 #### Semantic Scene Labeling
+
 	cd sem_seg
         python train.py
 
