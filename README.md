@@ -7,7 +7,7 @@ If you find our work useful in your research, please consider citing: To be dete
 
 
 ### Introduction
-This work is accepeted by AAAI20 as an oral paper. You can find arXiv version of the paper <a href="https://arxiv.org/pdf/1706.02413.pdf">here</a>. SK-Net is an end-to-end framework, to jointly optimize the inference of spatial keypoint with the learning of feature representation of a point cloud for a specific point cloud task.
+This work is accepeted by AAAI20 as an oral paper. You can find arXiv version of the paper <a href="https://arxiv.org/pdf/2003.14014.pdf">here</a>. SK-Net is an end-to-end framework, to jointly optimize the inference of spatial keypoint with the learning of feature representation of a point cloud for a specific point cloud task.
 
 One key process of SK-Net is the generation of spatial keypoints (Skeypoints). It is jointly conducted by two proposed regulating losses and a task objective function without knowledge of Skeypoint location annotations and proposals. Specifically, our Skeypoints are not sensitive to the location consistency but are finely aware of shape. Another key process of SK-Net is the extraction of local structure of Skeypoints (detail feature) and local spatial pattern of normalized Skeypoints (pattern feature). This process generates a comprehensive representation, pattern-detail (PD) feature, which comprises the local detail information of a point cloud and reveals its spatial pattern through the part district reconstruction on normalized Skeypoints. Consequently, our network is prompted to effectively understand the correlation between different regions of a point cloud and integrate contextual information of the point cloud.
 
